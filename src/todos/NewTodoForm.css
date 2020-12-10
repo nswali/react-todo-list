@@ -1,0 +1,17 @@
+.new-todo-form {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    background: #fff;
+    border-radius: 2px;    
+    margin: 1rem;
+}
+
+.new-todo-input {
+    flex-grow: 1;
+    margin-right: 5px;
+}
+
+.new-todo-button {
+
+}
